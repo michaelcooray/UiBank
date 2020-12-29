@@ -38,113 +38,53 @@
     "fileInfoCollection": [
       {
         "editingStatus": "Publishable",
-        "testCaseId": "830a64d2-ae68-40fd-8b2f-34e5ab45ae26",
+        "testCaseId": "8007abd9-01aa-4b9d-bf4f-5273dc9e39da",
         "fileName": "Create Account.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "a70fcc2f-f3bf-43b6-b6f1-cbabaef634f7",
-        "fileName": "Create User.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "860e9b77-9ba6-452e-81e9-8688a7ca008a",
-        "fileName": "Modify User Profile.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "98e43e63-b9a7-4378-a041-594f62cf26c2",
-        "fileName": "Perform Transaction.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "38b4cdb8-ca0b-40c9-86ec-c1adda36bf7e",
-        "fileName": "Transfer Funds.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "76cd7eaa-4617-4a58-8408-4a54734007ea",
-        "fileName": "Reset Password.xaml"
-      },
-      {
-        "editingStatus": "Publishable",
-        "testCaseId": "89a87527-bfc5-41e2-a39f-ec30a9cfeb8a",
+        "testCaseId": "3d984072-facd-43b7-bc9b-476fb779726c",
         "fileName": "Create Loan.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "fce756c5-fe90-42f1-938f-550ef371d517",
+        "testCaseId": "cec3bdc0-c044-4e9d-be1d-974c1da2c275",
+        "fileName": "Create User.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "f30090fa-1164-455a-9d4d-916a0a0c5835",
+        "fileName": "Delete Account.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "25e0c913-2009-414d-a6ed-2f8e93496b12",
+        "fileName": "Modify User Profile.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "f17a1ca2-6908-4b87-a5ac-ad77a93ed422",
+        "fileName": "Perform Transaction.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "ddb28dcb-5c78-4937-8b7f-17ff7797cb5a",
         "fileName": "Register Administrator.xaml"
       },
       {
         "editingStatus": "Publishable",
-        "testCaseId": "12cc2ca4-cb54-4a1d-a67e-49d3c61d188f",
-        "fileName": "Delete Account.xaml"
+        "testCaseId": "92ffb62f-f2f3-40e8-8304-f82280c22ad1",
+        "fileName": "Reset Password.xaml"
+      },
+      {
+        "editingStatus": "Publishable",
+        "testCaseId": "7c06cbf2-1e0e-436e-8c76-8fa8ef0c6d8f",
+        "fileName": "Transfer Funds.xaml"
       }
     ],
     "modernBehavior": false
   },
-  "arguments": {
-    "input": [],
-    "output": []
-  },
   "expressionLanguage": "VisualBasic",
-  "entryPoints": [
-    {
-      "filePath": "Create Account.xaml",
-      "uniqueId": "830a64d2-ae68-40fd-8b2f-34e5ab45ae26",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Create User.xaml",
-      "uniqueId": "a70fcc2f-f3bf-43b6-b6f1-cbabaef634f7",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Modify User Profile.xaml",
-      "uniqueId": "860e9b77-9ba6-452e-81e9-8688a7ca008a",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Perform Transaction.xaml",
-      "uniqueId": "98e43e63-b9a7-4378-a041-594f62cf26c2",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Transfer Funds.xaml",
-      "uniqueId": "38b4cdb8-ca0b-40c9-86ec-c1adda36bf7e",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Reset Password.xaml",
-      "uniqueId": "76cd7eaa-4617-4a58-8408-4a54734007ea",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Create Loan.xaml",
-      "uniqueId": "89a87527-bfc5-41e2-a39f-ec30a9cfeb8a",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Register Administrator.xaml",
-      "uniqueId": "fce756c5-fe90-42f1-938f-550ef371d517",
-      "input": [],
-      "output": []
-    },
-    {
-      "filePath": "Delete Account.xaml",
-      "uniqueId": "12cc2ca4-cb54-4a1d-a67e-49d3c61d188f",
-      "input": [],
-      "output": []
-    }
-  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {}

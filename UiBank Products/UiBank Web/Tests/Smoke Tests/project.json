@@ -37,47 +37,47 @@
     },
     "fileInfoCollection": [
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "830a64d2-ae68-40fd-8b2f-34e5ab45ae26",
         "fileName": "Create Account.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "a70fcc2f-f3bf-43b6-b6f1-cbabaef634f7",
         "fileName": "Create User.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "860e9b77-9ba6-452e-81e9-8688a7ca008a",
         "fileName": "Modify User Profile.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "98e43e63-b9a7-4378-a041-594f62cf26c2",
         "fileName": "Perform Transaction.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "38b4cdb8-ca0b-40c9-86ec-c1adda36bf7e",
         "fileName": "Transfer Funds.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "76cd7eaa-4617-4a58-8408-4a54734007ea",
         "fileName": "Reset Password.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "89a87527-bfc5-41e2-a39f-ec30a9cfeb8a",
         "fileName": "Create Loan.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "fce756c5-fe90-42f1-938f-550ef371d517",
         "fileName": "Register Administrator.xaml"
       },
       {
-        "editingStatus": "InProgress",
+        "editingStatus": "Publishable",
         "testCaseId": "12cc2ca4-cb54-4a1d-a67e-49d3c61d188f",
         "fileName": "Delete Account.xaml"
       }
@@ -89,6 +89,62 @@
     "output": []
   },
   "expressionLanguage": "VisualBasic",
+  "entryPoints": [
+    {
+      "filePath": "Create Account.xaml",
+      "uniqueId": "830a64d2-ae68-40fd-8b2f-34e5ab45ae26",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Create User.xaml",
+      "uniqueId": "a70fcc2f-f3bf-43b6-b6f1-cbabaef634f7",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Modify User Profile.xaml",
+      "uniqueId": "860e9b77-9ba6-452e-81e9-8688a7ca008a",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Perform Transaction.xaml",
+      "uniqueId": "98e43e63-b9a7-4378-a041-594f62cf26c2",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Transfer Funds.xaml",
+      "uniqueId": "38b4cdb8-ca0b-40c9-86ec-c1adda36bf7e",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Reset Password.xaml",
+      "uniqueId": "76cd7eaa-4617-4a58-8408-4a54734007ea",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Create Loan.xaml",
+      "uniqueId": "89a87527-bfc5-41e2-a39f-ec30a9cfeb8a",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Register Administrator.xaml",
+      "uniqueId": "fce756c5-fe90-42f1-938f-550ef371d517",
+      "input": [],
+      "output": []
+    },
+    {
+      "filePath": "Delete Account.xaml",
+      "uniqueId": "12cc2ca4-cb54-4a1d-a67e-49d3c61d188f",
+      "input": [],
+      "output": []
+    }
+  ],
   "isTemplate": false,
   "templateProjectData": {},
   "publishData": {}
